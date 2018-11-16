@@ -1,3 +1,11 @@
+This is the Tic Tac Toe from the original React tutorial. It's usefull to learn how React works.
+
+Ion
+
+________________________________________________
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
